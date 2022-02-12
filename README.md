@@ -1,1 +1,2 @@
-# personal-site
+# personal-website
+practicing some html,css features
